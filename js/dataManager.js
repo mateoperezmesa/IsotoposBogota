@@ -85,6 +85,10 @@ function filterDataAndRenderChart() {
   const rmaResult = calculateRMA(d18O_TOT, d2H_TOT);
   const a = rmaResult.a;
   const b = rmaResult.b;
+  const r = rmaResult.rSquared;
+  console.log('a interseccion eje y', a);
+  console.log('b', b);
+  console.log('R^2', r);
 
   // Datos para la ecuacion de la linea meteorica mundiall
   const start = -16; 
