@@ -1,4 +1,4 @@
-﻿ID,Nombre2,PAIS,FUENTE,Fecha,HORA,MES_COLECTADO,ELEVACION,LATITUD,LONGITUD,TIPO,CLASE,COMENTARIOS,Conductivity,"	d18O",d2H,d-excess,H3,Precipitation,TempAir,TempWater,Vp
+﻿ID,Nombre2,PAIS,FUENTE,Fecha,HORA,MES_COLECTADO,ELEVACION,LATITUD,LONGITUD,TIPO,CLASE,COMENTARIOS,Conductivity,d18O,d2H,d-excess,H3,Precipitation,TempAir,TempWater,Vp
 00131624-aed5-4f63-a782-b640e9ccdd47,BOGOTA,CO,GNIP - Monthly,15/11/2019,0:00:00,11,2547,4.7,-74.13,Precipitation,Rain,,,-8.92,-59.2,-50.28,1.83,89.9,14.3,,12.4
 001aaf43-a3e9-4e6d-937a-9df283c31578,MANAUS PIRACICABA,BR,GNIP - Monthly,15/09/1978,0:00:00,9,72,-3.12,-60.02,Precipitation,Rain,amount weighted monthly average calculated using daily data,,-1.6,2,3.6,,,,,
 0028ae2d-3826-4b70-ade7-158fc3c736b2,PIRACICABA,BR,GNIP - Events,15/02/1990,0:00:00,2,545,-22.71,-46.46583333,Precipitation,Rain,,,-2.58,-9.3,-6.72,,,,,
